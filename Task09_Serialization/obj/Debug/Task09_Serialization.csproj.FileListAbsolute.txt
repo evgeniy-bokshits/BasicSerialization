@@ -1,0 +1,6 @@
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\bin\Debug\Task09_Serialization.exe.config
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\bin\Debug\Task09_Serialization.exe
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\bin\Debug\Task09_Serialization.pdb
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\obj\Debug\Task09_Serialization.csprojResolveAssemblyReference.cache
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\obj\Debug\Task09_Serialization.exe
+c:\users\dzmitry_famenka\documents\visual studio 2013\Projects\Task09_Serialization\Task09_Serialization\obj\Debug\Task09_Serialization.pdb
